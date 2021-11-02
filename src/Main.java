@@ -6,6 +6,8 @@ public class Main {
 
     public void printStuff() {
         System.out.println("Hello Huseyin!");
+        
+        // yes
     }
 
 }
